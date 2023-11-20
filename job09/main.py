@@ -12,7 +12,7 @@ print("Prix unitaire :",prix_unitaire  )
 print("Quantité en stock :",quantite_en_stock )
 
 
-quantite_achetee = int(input("quantite voulu :10 "))
+quantite_achetee = int(input("quantite voulu :"))
 quantite_en_stock += quantite_achetee
 
 
